@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/titijaya",
+      "destination": "/titijaya/latest.html"
+    }
+  ]
+}
